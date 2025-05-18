@@ -2,14 +2,14 @@
 <div style="position: relative;">
   <!-- GIF floating to the right corner -->
   <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"
-       style="position: absolute; top: 0; right: 0; width: 400px;" />
+       style="position: absolute; top: 0; right: 0; width: 200px;" />
 </div>
 
 <!-- Centered Profile Photo -->
 <div align="center">
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg"
        alt="Ahmed Khaled Profile Photo"
-       width="200" style="border-radius: 10px; margin-top: 30px;" />
+       width="200" style="border-radius: 10px; margin-top: 0px;" />
 </div>
 
 <!-- Name and Title -->
