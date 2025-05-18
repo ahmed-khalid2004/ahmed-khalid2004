@@ -86,8 +86,7 @@
 </p>
 
 ---
-
-<h3 align="left">Connect with me:</h3>
+## 📞 Connect with me
 <p align="left">
   <a href="https://twitter.com/ahmed_khalid25" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" />
