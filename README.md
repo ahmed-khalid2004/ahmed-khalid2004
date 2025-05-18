@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="150" align="right" style="margin-left: 20px; margin-top: 10px; max-width: 30%;"/>
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="200" align="right" style="margin-left: 20px; margin-top: 10px; max-width: 30%;"/>
 
 - 🎓 Third-year Computer Science student at Menoufia University
   
