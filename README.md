@@ -1,3 +1,4 @@
+<img width="300" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <p align="center">
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled Profile Photo" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
@@ -10,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="https://github.com/ahmed-khalid2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </p>
-<img width="300" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 
 ---
 
