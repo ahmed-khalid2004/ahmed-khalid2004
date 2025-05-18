@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="https://github.com/ahmed-khalid2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </p>
-<img width="250" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="300" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 ---
 
