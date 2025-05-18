@@ -87,9 +87,7 @@
 <a href="https://fb.com/ahmad.khalid.462754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.khalid.462754" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_khalid57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_khalid57" height="30" width="40" /></a>
 <a href="https://wa.me/201110871987" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" height="30" width="40" /> </a> 
   <a href="https://t.me/Ahmedkhaled1u" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="Telegram" />
-</a>
+  <img src="https://pixabay.com/vectors/telegram-messenger-app-icon-social-6896827/" alt="Telegram" height="30" width="40" /> </a>
 </p>
