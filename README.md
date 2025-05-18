@@ -2,7 +2,7 @@
   <!-- Profile Image in center -->
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg"
        alt="Ahmed Khaled Profile Photo"
-       width="200" style="border-radius: 10px; margin-bottom: 10px;" />
+       width="250" style="border-radius: 10px; margin-bottom: 10px;" />
 
   <!-- Title and Description -->
   <h1>Hello World! 👋, I'm Ahmed Khaled</h1>
@@ -20,11 +20,6 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
   </p>
-
-  <!-- GIF centered below -->
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
-       alt="Coding GIF"
-       width="150" style="margin-top: 20px;" />
 </div>
 
 ---
@@ -36,6 +31,11 @@
 - 💡 Passionate about building efficient, scalable systems and solving algorithmic challenges
 - 🚀 Preparing to become a **Full Stack Developer**
 - 📄 [View My Resume (PDF)](https://drive.google.com/drive/u/1/folders/1opgLhB4Uxh6iPucmKOj294sGBTB0hRrF)
+  
+    <!-- GIF centered below -->
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
+       alt="Coding GIF"
+       width="150" style="margin-top: 20px;" />
 
 ---
 
