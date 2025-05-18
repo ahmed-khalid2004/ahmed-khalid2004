@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="160" align="right" style="margin-left: 20px; margin-top: 10px;"/>
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="200" align="right" style="margin-left: 20px; margin-top: 10px;"/>
 
 - 🎓 Third-year Computer Science student at Menoufia University  
 - 🧠 Strong background in **.NET**, **C#**, **OOP**, **DSA**, and **Web APIs**  
