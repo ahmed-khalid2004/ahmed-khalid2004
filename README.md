@@ -34,6 +34,8 @@
 - 🚀 Preparing to become a **Full Stack Developer**  
 - 📄 [View My Resume (PDF)](https://drive.google.com/drive/u/1/folders/1opgLhB4Uxh6iPucmKOj294sGBTB0hRrF)
 
+
+
 ---
 
 ## 💼 Projects
