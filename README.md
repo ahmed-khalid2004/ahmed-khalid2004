@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled Profile Photo" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
 
 <h1 align="center">Hello World! 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">💻 Software Engineer | .NET Developer</h3>
 
-
 <p align="center">
-  <a href="mailto:engahmedkhalid3s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahmed-khalid2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:engahmedkhalid3s@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+  <a href="https://github.com/ahmed-khalid2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </p>
 
 ---
@@ -28,9 +27,9 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🌐 Portfolio Website](https://github.com/ahmed-khalid2004/Portfolio_Website) | A clean, responsive personal portfolio. | HTML, CSS, JS |
 | [🛍️ E-Commerce API](https://github.com/ahmed-khalid2004/C43-G02-API) | Full-featured backend API for e-commerce app. | ASP.NET Core, EF, MSSQL |
-| [👨‍💼 Employee Management System](https://github.com/ahmed-khalid2004/Employee-Management-System) | System to manage employees. | JAVA, MYSQL |
+| [👨‍💼 Employee Management System](https://github.com/ahmed-khalid2004/Employee-Management-System) | System to manage employees. | Java, MySQL |
+| [🌐 Portfolio Website](https://github.com/ahmed-khalid2004/Portfolio_Website) | A clean, responsive personal portfolio. | HTML, CSS, JS |
 | [🧾 Profile Page App](https://github.com/ahmed-khalid2004/ProfilePageApp) | Interactive personal profile web app. | ASP.NET |
 
 ---
@@ -39,7 +38,7 @@
 
 - 🏅 .NET Development – ITI Summer Track *(2024)*
 - 🏅 .NET Development – Route Academy *(2025)*
-- 🧠 Algorithms & Data Structures – [Dr. Mostafa Saad - Udemy]
+- 🧠 Algorithms & Data Structures – Dr. Mostafa Saad – Udemy
 - 🥇 ECPC Rank: 84th overall, 24th in university *(2024)*
 
 ---
@@ -48,16 +47,16 @@
 
 <p align="left">
   <a href="https://codeforces.com/profile/_madboly" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Profile" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/xinLFbBoWb/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/engahmedkhalid3s" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank Profile" height="30" width="40" />
   </a>
   <a href="https://vjudge.net/user/Madbouly" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/code.png" alt="VJudge" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/000000/code.png" alt="VJudge Profile" height="30" width="40" />
   </a>
 </p>
 
@@ -81,32 +80,31 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004" alt="GitHub Streak" />
 </p>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ahmed_khalid25" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_khalid25" height="30" width="40" />
+  <a href="https://twitter.com/ahmed_khalid25" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khalid-5b6349259" height="30" width="40" />
+  <a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
-  <a href="https://fb.com/ahmad.khalid.462754" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.khalid.462754" height="30" width="40" />
+  <a href="https://fb.com/ahmad.khalid.462754" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/ahmed_khalid57" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_khalid57" height="30" width="40" />
+  <a href="https://instagram.com/ahmed_khalid57" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
   </a>
-  <a href="https://wa.me/201110871987" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  <a href="https://wa.me/201110871987" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" height="30" width="40" />
   </a>
-  <a href="https://t.me/Ahmedkhaled1u" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" height="30" width="40" />
+  <a href="https://t.me/Ahmedkhaled1u" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram Contact" height="30" width="40" />
   </a>
 </p>
-
