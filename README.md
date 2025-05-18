@@ -2,7 +2,7 @@
 <div style="position: relative;">
   <!-- GIF floating to the right corner -->
   <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"
-       style="position: absolute; top: 0; left: 0; width: 200px;" />
+       style="position: absolute; top: 0; right: 1000; width: 200px;" />
 </div>
 
 <!-- Centered Profile Photo -->
