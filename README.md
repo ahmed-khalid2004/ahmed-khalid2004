@@ -27,14 +27,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/ahmed_khalid25" target="blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://fb.com/ahmad.khalid.462754" target="blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
-  <a href="https://instagram.com/ahmed_khalid57" target="blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.hackerrank.com/engahmedkhalid3s" target="blank"><img src="https://img.icons8.com/windows/48/hackerrank.png" alt="HackerRank"/></a>
-  <a href="https://codeforces.com/profile/_madboly" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/codeforces.png" alt="Codeforces"/></a>
-  <a href="https://www.leetcode.com/xinlfbbowb" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/leetcode.png" alt="LeetCode"/></a>
+  <a href="https://twitter.com/ahmed_khalid25" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://fb.com/ahmad.khalid.462754" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
+  <a href="https://instagram.com/ahmed_khalid57" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.hackerrank.com/engahmedkhalid3s" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank"/></a>
+  <a href="https://codeforces.com/profile/_madboly" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" width="40" height="40" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/xinlfbbowb" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/></a>
 </p>
+
 
 ---
 
