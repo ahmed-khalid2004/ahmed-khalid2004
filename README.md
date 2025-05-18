@@ -1,4 +1,4 @@
-<img align="right" width="150" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="coding gif" />
+<img align="right" width="170" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="coding gif" />
 <p align="center">
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled" width="150" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
