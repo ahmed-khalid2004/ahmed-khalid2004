@@ -2,7 +2,7 @@
   <!-- Profile Image in center -->
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg"
        alt="Ahmed Khaled Profile Photo"
-       width="250" style="border-radius: 10px; margin-bottom: 10px;" />
+       width="200" style="border-radius: 10px; margin-bottom: 10px;" />
 
   <!-- Title and Description -->
   <h1>Hello World! 👋, I'm Ahmed Khaled</h1>
@@ -24,7 +24,7 @@
   <!-- GIF centered below -->
   <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
        alt="Coding GIF"
-       width="300" style="margin-top: 20px;" />
+       width="150" style="margin-top: 20px;" />
 </div>
 
 ---
