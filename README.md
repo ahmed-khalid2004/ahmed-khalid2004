@@ -26,27 +26,16 @@
 
 ## 👨‍💻 About Me
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-
-  <!-- Text on the left -->
-  <div>
-    <ul>
-      <li>🎓 Third-year Computer Science student at Menoufia University</li>
-      <li>🧠 Strong background in <strong>.NET</strong>, <strong>C#</strong>, <strong>OOP</strong>, <strong>DSA</strong>, and <strong>Web APIs</strong></li>
-      <li>💡 Passionate about building efficient, scalable systems and solving algorithmic challenges</li>
-      <li>🚀 Preparing to become a <strong>Full Stack Developer</strong></li>
-      <li>📄 <a href="https://drive.google.com/drive/u/1/folders/1opgLhB4Uxh6iPucmKOj294sGBTB0hRrF" target="_blank">View My Resume (PDF)</a></li>
-    </ul>
-  </div>
-
-  <!-- GIF on the right -->
-  <div>
-    <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
-         alt="Coding GIF"
-         width="150" />
-  </div>
-
-</div>
+- 🎓 Third-year Computer Science student at Menoufia University  
+- 🧠 Strong background in **.NET**, **C#**, **OOP**, **DSA**, and **Web APIs**
+- 💡 Passionate about building efficient, scalable systems and solving algorithmic challenges
+- 🚀 Preparing to become a **Full Stack Developer**
+- 📄 [View My Resume (PDF)](https://drive.google.com/drive/u/1/folders/1opgLhB4Uxh6iPucmKOj294sGBTB0hRrF)
+  
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
+     alt="Coding GIF"
+     width="150"
+     style="float: right; margin-left: 20px; margin-top: 10px;" />
 
 ---
 
