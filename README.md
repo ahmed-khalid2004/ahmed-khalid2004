@@ -5,14 +5,13 @@
 <h1 align="center">Hello World! 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">💻 Software Engineer | .NET Developer</h3>
 
-<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <p align="center">
   <a href="mailto:engahmedkhalid3s@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
   <a href="https://www.linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="https://github.com/ahmed-khalid2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </p>
 
+<img width="250" align="center" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 ---
 
 ## 👨‍💻 About Me
