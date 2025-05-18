@@ -1,10 +1,10 @@
 <img width="300" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <p align="center">
-  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled Profile Photo" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled Profile Photo" width="200" />
 </p>
 
-<h1 align="right">Hello World! 👋, I'm Ahmed Khaled</h1>
-<h3 align="right">💻 Software Engineer | .NET Developer</h3>
+<h1 align="center">Hello World! 👋, I'm Ahmed Khaled</h1>
+<h3 align="center">💻 Software Engineer | .NET Developer</h3>
 
 <p align="center">
   <a href="mailto:engahmedkhalid3s@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
