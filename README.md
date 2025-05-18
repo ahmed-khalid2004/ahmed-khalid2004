@@ -24,7 +24,7 @@
   <!-- GIF centered below -->
   <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
        alt="Coding GIF"
-       width="250" style="margin-top: 20px;" />
+       width="300" style="margin-top: 20px;" />
 </div>
 
 ---
