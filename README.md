@@ -1,10 +1,15 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<!-- GIF code animation floating on the right -->
+<img align="right" width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="coding gif" />
+
+<!-- Profile picture in center -->
 <p align="center">
-  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled" width="150" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
 
+<!-- Title and Subtitle -->
 <h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
-<h3 align="center">💻 Software Engineer | .NET Developer </h3>
+<h3 align="center">💻 Software Engineer | .NET Developer</h3>
+
 
 <p align="center">
   <a href="mailto:engahmedkhalid3s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
