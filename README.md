@@ -24,17 +24,18 @@
 
 ---
 
-## 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ahmed_khalid25" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://fb.com/ahmad.khalid.462754" target="_blank"><img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/></a>
-  <a href="https://instagram.com/ahmed_khalid57" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.hackerrank.com/engahmedkhalid3s" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" height="40" alt="HackerRank"/></a>
-  <a href="https://codeforces.com/profile/_madboly" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Codeforces_logo.svg" width="40" height="40" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/xinlfbbowb" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/></a>
+<a href="https://twitter.com/ahmed_khalid25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_khalid25" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khalid-5b6349259" height="30" width="40" /></a>
+<a href="https://fb.com/ahmad.khalid.462754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.khalid.462754" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed_khalid57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_khalid57" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/engahmedkhalid3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engahmedkhalid3s" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_madboly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_madboly" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xinlfbbowb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xinlfbbowb" height="30" width="40" /></a>
 </p>
+
+
 
 
 ---
