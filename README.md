@@ -26,15 +26,21 @@
 
 ## 👨‍💻 About Me
 
-<div style="float: right; margin-left: 20px; margin-top: 10px;">
-    <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="150"/>
-</div>
+<table>
+  <tr>
+    <td>
+      - 🎓 Third-year Computer Science student at Menoufia University  
+      - 🧠 Strong background in **.NET**, **C#**, **OOP**, **DSA**, and **Web APIs**  
+      - 💡 Passionate about building efficient, scalable systems and solving algorithmic challenges  
+      - 🚀 Preparing to become a **Full Stack Developer**  
+      - 📄 [View My Resume (PDF)](https://drive.google.com/drive/u/1/folders/1opgLhB4Uxh6iPucmKOj294sGBTB0hRrF)
+    </td>
+    <td>
+      <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="150"/>
+    </td>
+  </tr>
+</table>
 
-- 🎓 Third-year Computer Science student at Menoufia University  
-- 🧠 Strong background in **.NET**, **C#**, **OOP**, **DSA**, and **Web APIs**  
-- 💡 Passionate about building efficient, scalable systems and solving algorithmic challenges  
-- 🚀 Preparing to become a **Full Stack Developer**  
-- 📄 [View My Resume (PDF)](https://drive.google.com/drive/u/1/folders/1opgLhB4Uxh6iPucmKOj294sGBTB0hRrF)
 ---
 
 ## 💼 Projects
