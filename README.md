@@ -2,7 +2,7 @@
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
 
-<h1 align="center">أHello World! 👋, I'm Ahmed Khaled</h1>
+<h1 align="center">Hello World! 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">💻 Software Engineer | .NET Developer</h3>
 
 
