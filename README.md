@@ -74,7 +74,7 @@
 - 🎓 **2022**: Started CS at Menoufia University
 - 🧠 **2023**: Started DSA & OOP courses with Dr. Mostafa Saad
 - 🧩 **2024**: ITI Internship in .NET Development
-- 🚀 **2025**: Focused on Full Stack Development, building enterprise-grade apps
+- 🚀 **2025**: Route Academy Course & Still Focused on Full Stack Development
 
 ---
 
