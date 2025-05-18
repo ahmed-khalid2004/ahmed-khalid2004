@@ -1,5 +1,5 @@
 <img width="300" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-<p align="center">
+<p align="left">
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled Profile Photo" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
 </p>
 
