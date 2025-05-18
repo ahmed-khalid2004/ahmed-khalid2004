@@ -1,15 +1,13 @@
-<!-- Wrapper to position GIF absolutely to the right -->
-<div style="position: relative;">
-  <!-- GIF floating to the right corner -->
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"
-       style="position: absolute; top: 0; right: 0; width: 200px;" />
-</div>
-
-<!-- Centered Profile Photo -->
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-bottom: 20px;">
+  <!-- Profile Image in center -->
   <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg"
        alt="Ahmed Khaled Profile Photo"
-       width="200" style="border-radius: 10px; margin-top: 0px;" />
+       width="200" style="border-radius: 10px;" />
+
+  <!-- GIF on the right -->
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
+       alt="Coding GIF"
+       width="200" />
 </div>
 
 <!-- Name and Title -->
