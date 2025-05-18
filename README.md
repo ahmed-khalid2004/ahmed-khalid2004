@@ -1,16 +1,22 @@
-<!-- GIF on the right -->
-<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" />
+<!-- Wrapper to position GIF absolutely to the right -->
+<div style="position: relative;">
+  <!-- GIF floating to the right corner -->
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"
+       style="position: absolute; top: 0; right: 0; width: 200px;" />
+</div>
 
-<!-- Profile photo centered -->
-<p align="center">
-  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg" alt="Ahmed Khaled Profile Photo" width="200" style="border-radius: 10px;" />
-</p>
+<!-- Centered Profile Photo -->
+<div align="center">
+  <img src="https://github.com/ahmed-khalid2004/ahmed-khalid/blob/main/photo_2025-05-18_18-10-20.jpg"
+       alt="Ahmed Khaled Profile Photo"
+       width="200" style="border-radius: 10px; margin-top: 30px;" />
+</div>
 
-<!-- Name and title -->
+<!-- Name and Title -->
 <h1 align="center">Hello World! 👋, I'm Ahmed Khaled</h1>
 <h3 align="center">💻 Software Engineer | .NET Developer</h3>
 
-<!-- Social media buttons -->
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:engahmedkhalid3s@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
@@ -20,8 +26,8 @@
   </a>
   <a href="https://github.com/ahmed-khalid2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-
-
+  </a>
+</p>
 
 ---
 
