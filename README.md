@@ -45,11 +45,20 @@
 
 ## 🧠 Coding Platforms
 
-<p>
-  <a href="https://codeforces.com/profile/_madboly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_madboly" height="30" width="40" </a>
-  <a href="https://leetcode.com/u/xinLFbBoWb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
-    <a href="https://www.hackerrank.com/engahmedkhalid3s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="engahmedkhalid3s" height="30" width="40" </a>
-  <a href="https://vjudge.net/user/Madbouly" target="_blank"><img src="https://img.icons8.com/color/48/000000/code.png" width="40" alt="VJudge"/></a>
+<h3 align="left">Competitive Programming Profiles:</h3>
+<p align="left">
+  <a href="https://codeforces.com/profile/_madboly" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/xinLFbBoWb/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/engahmedkhalid3s" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://vjudge.net/user/Madbouly" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/code.png" alt="VJudge" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -82,12 +91,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmed_khalid25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_khalid25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khalid-5b6349259" height="30" width="40" /></a>
-<a href="https://fb.com/ahmad.khalid.462754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.khalid.462754" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_khalid57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_khalid57" height="30" width="40" /></a>
-<a href="https://wa.me/201110871987" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp Contact" height="30" width="40" /> </a> 
-  <a href="https://t.me/Ahmedkhaled1u" target="_blank">
-  <img src="https://pixabay.com/vectors/telegram-messenger-app-icon-social-6896827/" alt="Telegram" height="30" width="40" /> </a>
+  <a href="https://twitter.com/ahmed_khalid25" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_khalid25" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khalid-5b6349259" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/ahmad.khalid.462754" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.khalid.462754" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ahmed_khalid57" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_khalid57" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/201110871987" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  <a href="https://t.me/Ahmedkhaled1u" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+  </a>
 </p>
+
