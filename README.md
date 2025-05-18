@@ -46,54 +46,6 @@
 
 ## 🧠 Coding Platforms
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/110360187?v=4" alt="Ahmed Khaled" width="150" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Ahmed Khaled</h1>
-<h3 align="center">💻 .NET Developer | Software Engineer | Problem Solver</h3>
-
-<p align="center">
-  <a href="mailto:engahmedkhalid3s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-khalid-5b6349259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ahmed-khalid2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Third-year Computer Science student at Menoufia University  
-- 🧠 Strong background in **.NET**, **C#**, **OOP**, **Data Structures**, and **Web APIs**
-- 💡 Passionate about building efficient, scalable systems and solving algorithmic challenges
-- 🚀 Preparing to become a **Full Stack Developer**
-- 📩 Reach me at: **engahmedkhalid3s@gmail.com**
-- 📄 [View My Resume (PDF)](https://drive.google.com/drive/u/1/folders/1opgLhB4Uxh6iPucmKOj294sGBTB0hRrF)
-
----
-
-## 💼 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🌐 Portfolio Website](https://github.com/ahmed-khalid2004/Portfolio_Website) | A clean, responsive personal portfolio. | HTML, CSS, JS |
-| [🛍️ E-Commerce API](https://github.com/ahmed-khalid2004/C43-G02-API) | Full-featured backend API for e-commerce app. | ASP.NET Core, EF, MSSQL |
-| [👨‍💼 Employee Management System](https://github.com/ahmed-khalid2004/Employee-Management-System) | CRUD System to manage employees. | .NET, OOP |
-| [🧾 Profile Page App](https://github.com/ahmed-khalid2004/ProfilePageApp) | Interactive personal profile web app. | ASP.NET |
-
----
-
-## 📜 Certificates
-
-- 🏅 .NET Development – Route Academy *(Ongoing)*
-- 🏅 .NET Development – ITI Summer Track *(2024)*
-- 🧠 Algorithms & Data Structures – [Dr. Mostafa Saad - Udemy](https://www.udemy.com/)
-- 🥇 ECPC Rank: 84th overall, 24th in university
-
----
-
-## 🧠 Coding Platforms
-
 <p>
   <a href="https://codeforces.com/profile/_madboly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_madboly" height="30" width="40" </a>
   <a href="https://leetcode.com/u/xinLFbBoWb/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
@@ -135,4 +87,8 @@
 <a href="https://linkedin.com/in/ahmed-khalid-5b6349259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-khalid-5b6349259" height="30" width="40" /></a>
 <a href="https://fb.com/ahmad.khalid.462754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad.khalid.462754" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_khalid57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_khalid57" height="30" width="40" /></a>
+<a href="https://wa.me/20111071987" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" />
+</a>
+
 </p>
