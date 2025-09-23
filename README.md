@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Profile Image in center -->
-  <img src="https://raw.githubusercontent.com/ahmed-khalid2004/ahmed-khalid/master/photo_2025-05-18_18-10-20.jpg"
+  <img src="https://raw.githubusercontent.com/ahmed-khalid2004/ahmed-khalid/main/photo_2025-05-18_18-10-20.jpg"
        alt="Ahmed Khaled Profile Photo"
        width="200" style="border-radius: 10px; margin-bottom: 10px;" />
 
