@@ -28,7 +28,7 @@
 
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF" width="190" align="right"/>
 
-- 🎓 Third-year Computer Science student at Menoufia University
+- 🎓 Fourth-year Computer Science student at Menoufia University
   
 - 🧠 Strong background in **.NET**, **C#**, **OOP**, **DSA**, and **Web APIs**
   
