@@ -45,7 +45,6 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🛍️ E-Commerce API](https://github.com/ahmed-khalid2004/C43-G02-API) | Full-featured backend API for e-commerce app. | ASP.NET Core, EF, MSSQL |
-| [👨‍💼 Employee Management System](https://github.com/ahmed-khalid2004/Employee-Management-System) | System to manage employees. | Java, MySQL |
 | [🏢 Company Management System](https://github.com/ahmed-khalid2004/C43-G01-MVC03) | Web app to manage companies and departments using MVC architecture. | ASP.NET MVC, MSSQL |
 | [🌐 Portfolio Website](https://github.com/ahmed-khalid2004/Portfolio_Website) | A clean, responsive personal portfolio. | HTML, CSS, JS |
 | [📦 Order Management System](https://github.com/ahmed-khalid2004/OrderManagementSystem) | Layered architecture system for handling customer orders with discounts, invoices, and role-based access. | C#, ASP.NET Core, EF Core, MSSQL |
