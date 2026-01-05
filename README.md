@@ -100,10 +100,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmed-khalid2004&show_icons=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact" />
+  <img src="https://github-readme-stats-fe4ds18b6-ahmed-khalid2004s-projects.vercel.app/api?username=ahmed-khalid2004&show_icons=true" />
+  <img src="https://github-readme-stats-fe4ds18b6-ahmed-khalid2004s-projects.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004" />
 </p>
+
 
 ---
 ## 📞 Connect with me
