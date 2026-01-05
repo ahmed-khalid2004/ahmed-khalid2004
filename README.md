@@ -96,12 +96,12 @@
 - 🚀 **2025**: Route Academy Course & Still Focuse on Full Stack Development
 
 ---
-
+## 📈 GitHub Stats
 <p align="center">
 
 ![GitHub Stats](https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats-dun-nu-77.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact&theme=tokyonight&hide_border=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmed-khalid2004&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmed-khalid2004)
 
 </p>
 
