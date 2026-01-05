@@ -98,9 +98,9 @@
 ---
 ## 📈 GitHub Stats
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true)  
-  ![Top Languages](https://github-readme-stats-dun-nu-77.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact&theme=tokyonight&hide_border=true)  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ahmed-khalid2004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats-dun-nu-77.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />  
+  <img src="https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 ---
