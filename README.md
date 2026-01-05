@@ -100,11 +100,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fe4ds18b6-ahmed-khalid2004s-projects.vercel.app/api?username=ahmed-khalid2004&show_icons=true" />
-  <img src="https://github-readme-stats-fe4ds18b6-ahmed-khalid2004s-projects.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004" />
+  <img src="https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-dun-nu-77.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ---
 ## 📞 Connect with me
