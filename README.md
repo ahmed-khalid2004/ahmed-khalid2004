@@ -100,9 +100,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmed-khalid2004&show_icons=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004" />
 </p>
 
 ---
