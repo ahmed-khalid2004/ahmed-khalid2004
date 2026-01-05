@@ -90,18 +90,21 @@
 
 ## 🕒 Timeline
 
-- 🎓 **2022**: Started CS at Menoufia University
-- 🧠 **2023**: Started DSA & OOP courses with Dr. Mostafa Saad
-- 🧩 **2024**: ITI Internship in .NET Development
-- 🚀 **2025**: Route Academy Course & Still Focuse on Full Stack Development
+- 🎓 **2022**: Started Computer Science at Menoufia University
+- 🧠 **2023**: Began DSA & OOP courses with Dr. Mostafa Saad
+- 🧩 **2024**: Completed ITI Internship in .NET Development
+- 🚀 **2025**: Attended Route Academy Back-end .NET Course
+- 🔮 **2026**: Learning Angular with DEPI to become a full-stack developer (.NET & Angular)
+
 
 ---
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />  
   <img src="https://github-readme-stats-dun-nu-77.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />  
-  <img src="https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ahmed-khalid2004" alt="GitHub Streak" />
 </p>
+
 
 ---
 ## 📞 Connect with me
