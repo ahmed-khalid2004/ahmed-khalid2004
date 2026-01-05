@@ -102,7 +102,7 @@
 <p align="center">
   <img src="https://github-readme-stats-dun-nu-77.vercel.app/api?username=ahmed-khalid2004&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-dun-nu-77.vercel.app/api/top-langs/?username=ahmed-khalid2004&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-khalid2004&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ahmed-khalid2004&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
